@@ -4,5 +4,6 @@ Zoom을 사용하여 비대면 수업을 듣는 학생들을 위한 자동 수�
 
 ## [1. 로그인 후 수업 목록 가져오기]
 ![수업목록가져오기](./demo1.gif)
-<iframe id="video" width="가로" height="세로" src="./demo1.mp4" frameborder="0">
-</iframe>
+<video width="100%" height="100%" controls="controls">
+  <source src="./demo1.mp4" type="video/mp4">
+</video>
